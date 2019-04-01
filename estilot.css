@@ -1,0 +1,137 @@
+/* #4C0505 Color Rojo intenso 
+   #D30E0E Color rojo machin
+   #C19309 Color Amarillo
+*/
+html{
+	background-color: #03464A;
+}
+
+#cabeza{
+		background-color: #950505;
+		text-align: center;
+}
+#logotipo{
+	float: left;
+  	width:200px;
+  	height:120px;
+}
+header nav{
+	background-color: #C19309;
+	margin-bottom: 10px;
+}
+header nav ul{
+	list-style: none;
+	overflow: hidden;
+}
+
+header nav ul li{
+	float: right;
+}
+
+header nav ul li a{
+	display: block;
+	padding: 20px;
+	color: #010101;
+	text-decoration: none;
+}
+
+header nav ul li a:hover{
+	background: #C19309;
+}
+
+#imag7{
+	width: 280px;
+	height: 280px;
+	float: left;
+}
+
+#ima7{
+  border:5px;
+  width:280px;
+  height:250px;
+}
+#def{
+	background-color: #950505;
+	width: 265px;
+	height: 250px;
+	position: absolute;
+	top: 450px;
+	left: 25px;
+
+	padding-left: 15px;   
+	padding-right: 5px;
+	padding-top: 10px; 
+	padding-bottom: 120px;
+	margin-left: -16px;
+	text-align: justify;
+}
+
+#imag8{
+	width: 280px;
+	height: 280px;
+	float: left;
+	margin-left: 25px;
+	font-style: normal;
+	margin-bottom: 15px;
+	margin-top: 10px;
+
+}
+
+#ima8{
+  border:5px;
+  width:310px;
+  height:280px;
+}
+
+
+#text1{
+	background-color: #C19309;
+	width: 302px;
+	height: 550px;
+	float: left;
+	padding-left: 15px;  
+	padding-right: 15px;  
+	padding-top: 10px; 
+	padding-bottom: 120px;
+	margin-left: 25px;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+#text2{
+	background-color: #C19309;
+	width: 302px;
+	height: 550px;
+	float: left;
+	padding-left: 15px;  
+	padding-right: 15px;  
+	padding-top: 10px; 
+	padding-bottom: 120px;
+	margin-left: 25px;
+	margin-bottom: 10px;
+	text-align: justify;
+
+}
+
+#text3{
+	background-color: #950505;
+	width: 280px;
+	height: 270px;
+	float: left;
+	padding-left: 15px;  
+	padding-right: 15px;  
+	padding-top: 10px; 
+	padding-bottom: 120px;
+	margin-left: 25px;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+#piecesito{
+	background-color: #950505;  
+	clear: both;  
+	margin-top: 30px;  
+	text-align: center; 
+	padding: 10px;  
+	border-top: 10px solid #C19309; 
+
+}
